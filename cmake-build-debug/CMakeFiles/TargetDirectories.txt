@@ -1,0 +1,3 @@
+/home/user/CLionProjects/AlgLessons3sem/cmake-build-debug/CMakeFiles/AlgLessons3sem.dir
+/home/user/CLionProjects/AlgLessons3sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/AlgLessons3sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
