@@ -3,4 +3,4 @@ project(AlgLessons3sem)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AlgLessons3sem lesson1.cpp lesson2_1.cpp lesson2_2.cpp)
+add_executable(AlgLessons3sem lesson1.cpp lesson2_1.cpp lesson2_2.cpp lesson3.cpp lesson4.cpp lesson5.cpp)

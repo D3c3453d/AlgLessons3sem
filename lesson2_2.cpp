@@ -34,7 +34,7 @@ std::vector<std::vector<int>> get_SCC(std::vector<std::vector<int>>& graph) {
     std::vector<std::vector<int>> SCC;
     visited.assign(graph.size(), false);
 
-    for (int i = 0; i < graph.size(); ++i) {
+    for (auto& i: order) {
         if (!visited[i]){
             std::vector<int> group;
             dfs(inverted, i, visited, group);
